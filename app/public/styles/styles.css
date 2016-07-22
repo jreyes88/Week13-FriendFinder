@@ -1,0 +1,57 @@
+body {
+    background-image: url("../images/background_image.jpg");
+    background-color: #ccc;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+/*
+  ==============================
+  Navigation Bar
+  ==============================
+*/
+nav {
+	background: rgba(0,0,0,0.5);
+}
+
+.fa {
+	padding: 0;
+	margin: 0;
+	clear: both;
+}
+
+/*
+  ==============================
+  Main Page Content
+  ==============================
+*/
+main {
+	flex: 1 0 auto;
+}
+
+.card {
+	margin: 30px;
+}
+
+.dancingTree {
+	width: 100px;
+	display: block;
+}
+
+h3 {
+	font-size: 30px;
+}
+
+h2 {
+	font-size: 24px;
+}
+
+/*
+  ==============================
+  Footer
+  ==============================
+*/
+footer.page-footer {
+	background: rgba(0,0,0,0.5);
+}

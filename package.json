@@ -1,0 +1,25 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "Friend Finder personality matching application",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jreyes88/Week13-FriendFinder.git"
+  },
+  "author": "Joey Reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jreyes88/Week13-FriendFinder/issues"
+  },
+  "homepage": "https://github.com/jreyes88/Week13-FriendFinder#readme"
+}
