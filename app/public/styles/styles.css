@@ -1,11 +1,16 @@
 body {
-    background-image: url("../images/background_image.jpg");
+    background-image: url('../images/background_image.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-color: #ccc;
     display: flex;
     min-height: 100vh;
     flex-direction: column;
+    font-family: 'Raleway', 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+}
+
+a:hover:not(.brand-logo) {
+    text-decoration: underline;
 }
 
 /*
