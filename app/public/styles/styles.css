@@ -61,8 +61,19 @@ h2 {
   Survey Results
   ==============================
 */
+#matchName {
+  text-align: center;
+}
+
 #matchImg {
 	width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+#matchText {
+  text-align: center;
 }
 
 /*
