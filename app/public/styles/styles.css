@@ -9,78 +9,82 @@ body {
 }
 
 /*
-  ==============================
-  Navigation Bar
-  ==============================
+==============================
+Navigation Bar
+==============================
 */
 nav {
-	background: rgba(0,0,0,0.5);
+    background: rgba(0,0,0,0.5);
 }
 
 .fa {
-	padding: 0;
-	margin: 0;
-	clear: both;
+    padding: 0;
+    margin: 0;
+    clear: both;
 }
 
 /*
-  ==============================
-  Main Page Content
-  ==============================
+==============================
+Main Page Content
+==============================
 */
 main {
-	flex: 1 0 auto;
+    flex: 1 0 auto;
 }
 
 .card {
-	margin: 30px;
+    margin: 30px;
 }
 
 .dancingTree {
-	width: 100px;
-	display: block;
+    width: 100px;
+    display: block;
 }
 
 h3 {
-	font-size: 30px;
+    font-size: 30px;
 }
 
 h2 {
-	font-size: 24px;
+    font-size: 24px;
 }
 
 #sunSunglasses {
-	display: block;
-	margin-left: auto;
+    display: block;
+    margin-left: auto;
     margin-right: auto;
     width: 20%;
 }
+.surveyContainer {
+    background-color: #fff;
+    padding: 30px;
+}
 
 /*
-  ==============================
-  Survey Results
-  ==============================
+==============================
+Survey Results
+==============================
 */
 #matchName {
-  text-align: center;
+    text-align: center;
 }
 
 #matchImg {
-	width: 200px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #matchText {
-  text-align: center;
+    text-align: center;
 }
 
 /*
-  ==============================
-  Footer
-  ==============================
+==============================
+Footer
+==============================
 */
 footer.page-footer {
-	background: rgba(0,0,0,0.5);
+    background: rgba(0,0,0,0.5);
 }
