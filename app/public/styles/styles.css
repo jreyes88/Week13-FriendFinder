@@ -1,5 +1,7 @@
 body {
     background-image: url("../images/background_image.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     background-color: #ccc;
     display: flex;
     min-height: 100vh;
@@ -45,6 +47,22 @@ h3 {
 
 h2 {
 	font-size: 24px;
+}
+
+#sunSunglasses {
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+/*
+  ==============================
+  Survey Results
+  ==============================
+*/
+#matchImg {
+	width: 200px;
 }
 
 /*

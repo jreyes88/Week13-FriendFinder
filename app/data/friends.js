@@ -1,7 +1,7 @@
 var friends = [
 	{
     	"name": "Jimmy Buffett",
-    	"photo": "http://www.jztours.com/wp-content/uploads/2014/05/jimmy-buffett-4f3a83f5199eb.jpg",
+    	"photo": "http://www.thetelegram.com/media/photos/unis/2013/11/22/2013-11-22-09-17-44-B1-max-cmykjimmy-buffett.jpg",
     	"scores": [
 	        5,
 	        5,
@@ -17,7 +17,7 @@ var friends = [
 	},
 	{
 		"name": "Don Henley",
-		"photo": "https://i.ytimg.com/vi/CQNH-qJMgFw/maxresdefault.jpg",
+		"photo": "http://images1.dallasobserver.com/imager/u/original/7680995/henley_0202_david_mcclister.jpg",
 		"scores": [
 			4,
 			4,
@@ -33,7 +33,7 @@ var friends = [
 	},
 	{
 		"name": "Joe Walsh",
-		"photo": "https://i.ytimg.com/vi/p0Iq-UBWKcU/maxresdefault.jpg",
+		"photo": "http://i2.cdn.turner.com/cnnnext/dam/assets/160421073552-joe-walsh-file-super-169.jpg",
 		"scores": [
 			3,
 			3,
@@ -49,7 +49,7 @@ var friends = [
 	},
 	{
 		"name": "John Fogerty",
-		"photo": "https://www.zealnyc.com/wp-content/uploads/2015/05/JohnFogerty1.jpg",
+		"photo": "http://images6.fanpop.com/image/photos/36800000/John-Fogerty-creedence-clearwater-revival-36880030-1920-1080.jpg",
 		"scores": [
 			2,
 			2,
@@ -65,7 +65,7 @@ var friends = [
 	},
 	{
 		"name": "Steve Miller",
-		"photo": "http://www.stevemillerband.com/images/double-neck-mini.jpg",
+		"photo": "http://assets.klipsch.com/herobox-images/Rock-Hall-2016-Steve-Miller.jpg",
 		"scores": [
 			1,
 			1,
@@ -81,7 +81,7 @@ var friends = [
 	},
 	{
 		"name": "Peter Frampton",
-		"photo": "http://img.wennermedia.com/featured-promo-580/rs-130772-20140331-frampton-x1800-1396299285.jpg",
+		"photo": "./images/artists/peter_frampton.jpg",
 		"scores": [
 			1,
 			2,
@@ -96,15 +96,47 @@ var friends = [
 		]
 	},
 	{
-		"name": "Danny McBride",
-		"photo": "http://cdn2.holytaco.com/wp-content/uploads/2012/02/kenny_powers_wig.jpg",
+		"name": "Christopher Cross",
+		"photo": "./images/artists/christopher_cross.jpg",
 		"scores": [
-			2,
-			3,
 			5,
-			1,
 			4,
 			3,
+			2,
+			1,
+			1,
+			2,
+			3,
+			4,
+			5
+		]
+	},
+	{
+		"name": "Kenny Loggins",
+		"photo": "./images/artists/kenny_loggins.jpg",
+		"scores": [
+			1,
+			3,
+			5,
+			3,
+			1,
+			2,
+			4,
+			4,
+			2,
+			4
+		]
+	},
+	{
+		"name": "John Oates",
+		"photo": "./images/artists/john_oates.jpg",
+		"scores": [
+			2,
+			5,
+			3,
+			4,
+			1,
+			5,
 			4,
 			2,
 			5,
@@ -112,40 +144,8 @@ var friends = [
 		]
 	},
 	{
-		"name": "David Hasselhoff",
-		"photo": "http://static.socialitelife.com/uploads/2009/05/davidhasselhoff-drunk-photos-05032009-05-400x300.jpg",
-		"scores": [
-			5,
-			4,
-			5,
-			2,
-			5,
-			2,
-			3,
-			5,
-			4,
-			2
-		]
-	},
-	{
-		"name": "Adam Sandler",
-		"photo": "http://www.multichannel.com/sites/default/files/public/styles/blog_content/public/Adam-Sandler.jpg?itok=FA5m_Owf",
-		"scores": [
-			2,
-			5,
-			3,
-			4,
-			1,
-			5,
-			4,
-			2,
-			5,
-			1
-		]
-	},
-	{
-		"name": "Dolly Parton",
-		"photo": "http://dollypartonfans.co.uk/wordpress/wp-content/uploads/2013/02/Dolly_Parton400x300.jpg",
+		"name": "Michael Bolton",
+		"photo": "./images/artists/michael_bolton.jpg",
 		"scores": [
 			5,
 			3,
